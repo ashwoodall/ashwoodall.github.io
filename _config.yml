@@ -19,13 +19,13 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 footer-links:
   dribbble:
   email: ash.woodall@gmail.com
-  facebook: https://www.facebook.com/ashwoodall
+  facebook: ashwoodall
   flickr:
-  github: github.com/ashwoodall
-  instagram: https://www.instagram.com/wooooooooodall/
-  linkedin: https://www.linkedin.com/in/ashwoodall/
+  github: ashwoodall
+  instagram: wooooooooodall
+  linkedin: ashwoodall
   pinterest:
-  rss: # just type anything here for a working RSS icon
+  rss: ashwoodall.github.io # just type anything here for a working RSS icon
   twitter: woodall_ash
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
