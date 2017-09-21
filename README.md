@@ -1,8 +1,7 @@
 # Ashley Woodall
 
-#### [ashwoodall.github.io]{ashwoodall.github.io}
+#### [ashwoodall.github.io](ashwoodall.github.io)
 
-![]({{ site.url }}/images/ash.jpg)
+![](https://ashwoodall.files.wordpress.com/2017/05/img_0037.jpg?w=395&h=395g)
 
-Ashley Woodall is a Developer, Audiologist, and Author.
-
+Ashley Woodall is a Developer and Audiologist in Austin, TX.
