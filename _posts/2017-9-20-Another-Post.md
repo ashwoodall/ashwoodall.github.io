@@ -5,6 +5,4 @@ title: Migration to Jekyll!
 
 ## Yay new post!
 
-Just trying out some new thing
-This should be a line break
-Ash is really cool.
+I have wanted to create a Jekyll blog ever since diving into github pages about a year ago. Hello world!
