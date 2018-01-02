@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Coding and having a great time in Austin, TX.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Please get in touch if you have any questions or want to chat!
 
 ### Contact me
 
